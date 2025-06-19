@@ -1,0 +1,3 @@
+[submodule "InvestmentCalculator"]
+	path = InvestmentCalculator
+	url = https://github.com/shirnim/InvestmentCalculator.git
