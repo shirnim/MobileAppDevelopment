@@ -1,6 +1,0 @@
-[submodule "InvestmentCalculator"]
-	path = InvestmentCalculator
-	url = https://github.com/shirnim/InvestmentCalculator.git
-[submodule "trend-sense"]
-	path = trend-sense
-	url = https://github.com/shirnim/trend-sense.git
