@@ -1,0 +1,3 @@
+[submodule "jobsaggregator"]
+	path = jobsaggregator
+	url = https://github.com/shirnim/jobsaggregator.git
